@@ -29,7 +29,7 @@
 
 ![Reg Chiu's github stats](https://github-readme-stats.vercel.app/api?username=majidh1&show_icons=true&title_color=fff&icon_color=fff&bg_color=30,24D4DC,036ED9&text_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regchiu&layout=compact&title_color=fff&icon_color=fff&bg_color=30,24D4DC,036ED9&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidh1&layout=compact&title_color=fff&icon_color=fff&bg_color=30,24D4DC,036ED9&text_color=fff)
 
 ### Let's Connect :coffee:
 <p align="center">
