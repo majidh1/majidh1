@@ -32,7 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidh1&layout=compact&title_color=fff&icon_color=fff&bg_color=30,24D4DC,036ED9&text_color=fff)
 
 ### :coffee: Let's Connect 
-<p align="center">
+<p>
 	<a href="https://github.com/majidh1"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/majidh1/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://stackoverflow.com/users/10389548/majidh1"><img src="https://img.icons8.com/bubbles/50/000000/ask-question.png" alt="Facebook"/></a>
