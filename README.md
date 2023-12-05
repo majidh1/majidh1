@@ -10,6 +10,8 @@
 \
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?style=flat&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-fff?style=flat&logo=TypeScript&logoColor=blue)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-fff?style=flat&logo=angular&logoColor=red)&nbsp;
 ![LESS](https://img.shields.io/badge/-LESS-fff?style=flat&logo=less&logoColor=264e7e)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-fff?style=flat&logo=sass&logoColor=c76494)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-fff?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -21,6 +23,7 @@
 ![Azure](https://img.shields.io/badge/-Azure%20DevOps-fff?style=flat&logo=azuredevops&logoColor=0085cf)&nbsp;
 \
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-fff?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-fff?style=flat&logo=intellij-idea&logoColor=black)&nbsp;
 ![Atom](https://img.shields.io/badge/-Atom-fff?style=flat&logo=atom&logoColor=444)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=444)&nbsp;
 ...
@@ -29,7 +32,7 @@
 
 ![Reg Chiu's github stats](https://github-readme-stats.vercel.app/api?username=majidh1&show_icons=true&title_color=fff&icon_color=fff&bg_color=30,24D4DC,036ED9&text_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidh1&layout=compact&title_color=fff&icon_color=fff&bg_color=30,24D4DC,036ED9&text_color=fff)
+![Top Langs](https://github-profile-trophy.vercel.app/?username=majidh1&margin-w=15&no-bg=true&no-frame=true&theme=onedark&&rank=-C)
 
 ### :coffee: Let's Connect 
 <p>
