@@ -12,6 +12,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?style=flat&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-fff?style=flat&logo=TypeScript&logoColor=blue)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-fff?style=flat&logo=angular&logoColor=red)&nbsp;
+![React](https://img.shields.io/badge/React-fff?style=flat&logo=react&logoColor=blue)&nbsp;
 ![LESS](https://img.shields.io/badge/-LESS-fff?style=flat&logo=less&logoColor=264e7e)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-fff?style=flat&logo=sass&logoColor=c76494)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-fff?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
