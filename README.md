@@ -31,9 +31,8 @@
 
 ### :bar_chart: GitHub stats
 
-![Reg Chiu's github stats](https://github-readme-stats.vercel.app/api?username=majidh1&show_icons=true&title_color=fff&icon_color=fff&bg_color=30,24D4DC,036ED9&text_color=fff)
-
-![Top Langs](https://github-profile-trophy.vercel.app/?username=majidh1&margin-w=15&no-bg=true&no-frame=true&theme=onedark&&rank=-C)
+![MAjid GitHub stats](https://github-stats-extended.vercel.app/api?username=majidh1&show_icons=true&title_color=fff&icon_color=fff&bg_color=30,24D4DC,036ED9&text_color=fff)
+![Top Langs](https://github-stats-extended.vercel.app/?username=majidh1&margin-w=15&no-bg=true&no-frame=true&theme=onedark&&rank=-C)
 
 ### :coffee: Let's Connect 
 <p>
