@@ -32,7 +32,8 @@
 ### :bar_chart: GitHub stats
 
 ![MAjid GitHub stats](https://github-stats-extended.vercel.app/api?username=majidh1&show_icons=true&title_color=fff&icon_color=fff&bg_color=30,24D4DC,036ED9&text_color=fff)
-![Top Langs](https://github-stats-extended.vercel.app/?username=majidh1&margin-w=15&no-bg=true&no-frame=true&theme=onedark&&rank=-C)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=majidh1&layout=compact&hide_title=true&langs_count=10)](https://github-stats-extended.vercel.app/api/top-langs?username=majidh1&layout=compact&hide_title=true&langs_count=10)
 
 ### :coffee: Let's Connect 
 <p>
